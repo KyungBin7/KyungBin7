@@ -21,23 +21,8 @@ Also proficient in Docker, AWS, and Web Development.
 
 
 ## 📊 KyungBin7's GitHub Stats
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=KyungBin7&show_icons=true&theme=radical" alt="KyungBin7's GitHub stats" />
-</p>
-
----
-
-### Pinned Repositories
-<p align="center">
-  <a href="https://github.com/KyungBin7/your-repo">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KyungBin7&repo=your-repo&theme=radical" />
-  </a>
-  <a href="https://github.com/KyungBin7/another-repo">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KyungBin7&repo=another-repo&theme=radical" />
-  </a>
-  <a href="https://github.com/KyungBin7/yet-another-repo">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KyungBin7&repo=yet-another-repo&theme=radical" />
-  </a>
 </p>
 
 ---
@@ -51,4 +36,4 @@ Also proficient in Docker, AWS, and Web Development.
 
 ---
 
-**감사합니다!**
+**Thank!**
