@@ -20,7 +20,3 @@ Also proficient in Docker, AWS, and Web Development.
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=KyungBin7&show_icons=true&theme=radical" alt="KyungBin7's GitHub stats" />
 </p>
-
----
-
-**Thank!**
