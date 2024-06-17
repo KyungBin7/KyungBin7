@@ -15,9 +15,9 @@
 
 ---
 
-I'm currently studying at 42Seoul. Interested in Blockchain, AI, and Backend Development.
+I'm currently studying at Hankuk University of Foreign Studies. Interested in Blockchain, AI, and Backend Development.
 
-Also proficient in Docker, Kubernetes, and Web Development.
+Also proficient in Docker, AWS, and Web Development.
 
 Take a look at the community I created: [80000coding](https://80000coding.notion.site/)
 
