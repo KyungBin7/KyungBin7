@@ -1,6 +1,6 @@
-<h1 align="center">👋 Hi there! I'm KyungBin7</h1>
+<h1 align="left">👋 Hi there! I'm KyungBin7</h1>
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/-42Seoul-blue?style=flat-square&logo=42" />
   <a href="https://velog.io/@KyungBin7">
     <img src="https://img.shields.io/badge/Blog-Velog-brightgreen?style=flat-square&logo=velog" />
@@ -19,7 +19,6 @@ I'm currently studying at Hankuk University of Foreign Studies. Interested in Bl
 
 Also proficient in Docker, AWS, and Web Development.
 
-Take a look at the community I created: [80000coding](https://80000coding.notion.site/)
 
 ## 📊 KyungBin7's GitHub Stats
 <p align="center">
