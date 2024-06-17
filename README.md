@@ -44,7 +44,4 @@
 ### 🏆 GitHub Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=KyungBin7&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-### 💻 기여도 그래프
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=KyungBin7&theme=dracula)
-
 
