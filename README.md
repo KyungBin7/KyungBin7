@@ -23,13 +23,4 @@ Also proficient in Docker, AWS, and Web Development.
 
 ---
 
-## 📫 Contact
-<p align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/KyungBin7"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://velog.io/@KyungBin7"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white" alt="Velog"></a>
-</p>
-
----
-
 **Thank!**
