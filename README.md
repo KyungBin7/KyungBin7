@@ -17,12 +17,6 @@
 
 ---
 
-### 📊 통계
-![KyungBin7's GitHub stats](https://github-readme-stats.vercel.app/api?username=KyungBin7&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KyungBin7&layout=compact&theme=default)
-
----
-
 ### 📫 연락처
 - **이메일**: your-email@example.com
 - **링크드인**: [LinkedIn 프로필](https://www.linkedin.com/in/KyungBin7)
