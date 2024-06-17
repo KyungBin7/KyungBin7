@@ -1,14 +1,10 @@
 <h1 align="left">👋 Hi there! I'm KyungBin7</h1>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-42Seoul-blue?style=flat-square&logo=42" />
-  <a href="https://velog.io/@KyungBin7">
-    <img src="https://img.shields.io/badge/Blog-Velog-brightgreen?style=flat-square&logo=velog" />
-  </a>
   <a href="https://github.com/KyungBin7">
     <img src="https://img.shields.io/badge/GitHub-KyungBin7-black?style=flat-square&logo=github" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:jkb12377@hufs.ac.kr">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
