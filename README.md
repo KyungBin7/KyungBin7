@@ -11,7 +11,7 @@
 
 ---
 
-I'm currently studying at Hankuk University of Foreign Studies. Interested in Blockchain, AI, and Backend Development.
+I'm currently studying at Hankuk University of Foreign Studies. Interested in Blockchain, AI, and Cloud Infra.
 
 Also proficient in Docker, AWS, and Web Development.
 
